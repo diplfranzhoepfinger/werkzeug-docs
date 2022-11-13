@@ -19,15 +19,3 @@ Contents
 
    Home <self>
    Home
-   Abgrenzung
-   Visuelle-Programmiersprachen
-   Normen
-   Allgemeines
-   Ueber4diac
-   Literatur
-   Hilfe
-   Installation-4diac
-   ProcessInterface
-   Übungsaufgaben
-   4diac_internals
-   typelibrary/typelibrary
