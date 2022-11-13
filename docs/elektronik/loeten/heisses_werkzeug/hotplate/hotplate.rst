@@ -1,0 +1,8 @@
+
+hotplate
+========================================
+
+
+.. toctree::
+
+   hotplate-station
