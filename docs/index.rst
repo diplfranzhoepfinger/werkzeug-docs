@@ -22,4 +22,5 @@ Contents
    Home <self>
    Home
    elektronik/elektronik
+   elektrik/elektrik
    mechanik/mechanik
