@@ -15,6 +15,7 @@ sicherlich kann man damit auch löten, aber die Nachteile sind:
 
 #### Beispiele
 
+*   ATTEN ST-60 / 60 W Lötstation, ESD-sicher
 *   YIHUA 926LED-III Digitale Elektrische Lötkolben
 *   JCD 908S
 *   und viele viele mehr !!!!
@@ -40,6 +41,10 @@ JCD 908S:
 13€ für ein Werkzeugset mit Lötkolben: [https://de.aliexpress.com/item/1005004418391691.html](https://de.aliexpress.com/item/1005004418391691.html) Kann z.B. für eine Flotte an Servicefahrzeugen die normalerweise nicht Löten müssen durchaus Sinn machen.
 
 25€ für eine Lötstation: [https://de.aliexpress.com/item/4001283051045.html](https://de.aliexpress.com/item/4001283051045.html)
+
+80€ für eine Lötsation die auch nicht besser ist: [https://www.reichelt.de/loetstation-st-60-1-kanal-60-w-station-st-60-p290555.html](https://www.reichelt.de/loetstation-st-60-1-kanal-60-w-station-st-60-p290555.html)
+
+\--> mit der habe ich jahrelang gearbeitet. 
 
 #### Fotos:
 
