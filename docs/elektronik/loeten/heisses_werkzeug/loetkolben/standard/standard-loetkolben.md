@@ -16,12 +16,11 @@ sicherlich kann man damit auch löten, aber die Nachteile sind:
 #### Beispiele
 
 *   ATTEN ST-60 / 60 W Lötstation, ESD-sicher
-*   die ATTEN Lötkolben/Lötstation ST-100 / 100 W gehört NICHT in diese Liste. 
+    *   die ATTEN Lötkolben/Lötstation ST-100 / 100 W gehört NICHT in diese Liste.
+        *   die hat eine verbesserte Spitzentechnik.
 *   YIHUA 926LED-III Digitale Elektrische Lötkolben
 *   JCD 908S
 *   und viele viele mehr !!!!
-
-
 
 #### Gemeinsamkeiten
 
@@ -45,7 +44,9 @@ JCD 908S:
 
 25€ für eine Lötstation: [https://de.aliexpress.com/item/4001283051045.html](https://de.aliexpress.com/item/4001283051045.html)
 
-80€ für eine Lötsation die auch nicht besser ist: [https://www.reichelt.de/loetstation-st-60-1-kanal-60-w-station-st-60-p290555.html](https://www.reichelt.de/loetstation-st-60-1-kanal-60-w-station-st-60-p290555.html) \--> mit der habe ich jahrelang gearbeitet. 
+80€ für eine Lötstation die auch nicht besser ist: [https://www.reichelt.de/loetstation-st-60-1-kanal-60-w-station-st-60-p290555.html](https://www.reichelt.de/loetstation-st-60-1-kanal-60-w-station-st-60-p290555.html) --> mit der habe ich jahrelang gearbeitet. Geht, aber die o.g. Nachteile. 
+
+135€ muss man dann für die ST-100 ausgeben: [https://www.reichelt.de/loetstation-st-100-1-kanal-100-w-station-st-100-p290558.html](https://www.reichelt.de/loetstation-st-100-1-kanal-100-w-station-st-100-p290558.html) habe leider keine Persönlichen Erfahrungen mit der. Die Spitzen der ST-100 sind anders!!!
 
 #### Fotos:
 
