@@ -7,3 +7,4 @@ heisses_werkzeug
 
    loetkolben/loetkolben
    hotplate/hotplate
+   ir_station/ir_station
