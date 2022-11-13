@@ -2,7 +2,7 @@
 
 Eine Hotplate solte in jeder Werkstatt vorhanden sein. 
 
-#### Bezugsquellen Hotplate: 
+#### Bezugsquellen Hotplate:
 
 ##### ET-10:
 
@@ -20,6 +20,16 @@ Die ET-10 und die ET-20 benutzt [@franz-ms-muc](https://github.com/franz-ms-muc)
 
 ![](https://user-images.githubusercontent.com/69573151/201537705-881ebcb6-b508-4886-a1bc-83467ce4fe43.jpg)
 
-Die Isolation der Heizdrähte erweckt nicht den besten Eindruck !
+Die Isolation der Heizdrähte erweckt nicht den besten Eindruck ! Elektrische Sicherheit fraglich! 
 
 ![](https://user-images.githubusercontent.com/69573151/201537726-4ed8b40f-d6b5-4e03-969d-870a16539583.jpg)
+
+#### Fotos ET-20:
+
+Die ET-20 hat hier schon eine Verkleidung, da schauen keine Drähte mehr raus !
+
+![](https://user-images.githubusercontent.com/69573151/201537849-6da09a62-f83d-4fa1-b620-5ffc19599943.jpg)
+
+![](https://user-images.githubusercontent.com/69573151/201537874-fcb49963-5db1-4fa6-9193-c05aaff8402a.jpg)
+
+![](https://user-images.githubusercontent.com/69573151/201537879-d4218e64-ee25-4700-9e20-bb100eab0c49.jpg)
