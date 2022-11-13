@@ -1,7 +1,5 @@
 ### hotplate-miniware
 
-#### miniware
-
 Auch miniware hat eine Hotplate:
 
 [https://www.miniware.com.cn/product/mhp30-mini-hot-plate-preheater/](https://www.miniware.com.cn/product/mhp30-mini-hot-plate-preheater/)
