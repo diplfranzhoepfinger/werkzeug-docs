@@ -15,9 +15,9 @@ sicherlich kann man damit auch löten, aber die Nachteile sind:
 
 #### Beispiele
 
-*   ATTEN Lötkolben/Lötstation ST-100 / 100 W
 *   YIHUA 926LED-III Digitale Elektrische Lötkolben
 *   JCD 908S
+*   und viele viele mehr !!!!
 
 #### Gemeinsamkeiten
 
@@ -29,6 +29,8 @@ diese sind extrem billig:
 
 in der Täglichen Anwendung braucht man dann auch ca. 1 Spitze pro Tag, diese sind dem agressiven Lötzinn nicht gewachsen.
 
+Die Lötspitzen sind rein passive Teile, die mit relativ viel Spiel auf einen Keramik-Heizstab aufgesteckt werden. 
+
 #### Bezugsquellen
 
 JCD 908S:
@@ -37,7 +39,9 @@ JCD 908S:
 
 13€ für ein Werkzeugset mit Lötkolben: [https://de.aliexpress.com/item/1005004418391691.html](https://de.aliexpress.com/item/1005004418391691.html) Kann z.B. für eine Flotte an Servicefahrzeugen die normalerweise nicht Löten müssen durchaus Sinn machen.
 
-#### Fotos: 
+25€ für eine Lötstation: [https://de.aliexpress.com/item/4001283051045.html](https://de.aliexpress.com/item/4001283051045.html)
+
+#### Fotos:
 
 ![](https://user-images.githubusercontent.com/69573151/201533696-bcf8033d-d862-43a3-8c13-bd41c05e3f06.jpg)
 
