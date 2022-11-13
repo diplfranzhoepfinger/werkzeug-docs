@@ -14,7 +14,7 @@ und selbst eine kleine Lötspitze kann für relativ große Arbeiten verwendet we
 
 kein Hersteller macht so Leistungsfähige Spitzen: so kann eine RTU032SMS bis 150W Leistung bringen ! 
 
-leider kostet diese Ausstattung auch ihren Preis: 
+leider kostet diese Ausstattung auch ihren Preis:
 
 [https://www.weidinger.eu/de/p/wl48188](https://www.weidinger.eu/de/p/wl48188) Die Station mit Griff und Spitze schlägt mit etwa 1000€ zu Buche, 
 
