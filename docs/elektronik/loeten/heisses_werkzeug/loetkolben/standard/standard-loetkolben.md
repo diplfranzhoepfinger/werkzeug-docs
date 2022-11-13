@@ -11,3 +11,16 @@ sicherlich kann man damit auch löten, aber die Nachteile sind:
 *   Viel Platzbedarf auf dem Schreibtisch
 *   langsame Reaktionszeit bei Berührung mit der Lötstelle
 *   langsame Temperaturregelung
+
+#### Beispiele
+
+*   ATTEN Lötkolben/Lötstation ST-100 / 100 W
+*   YIHUA 926LED-III Digitale Elektrische Lötkolben
+
+#### Gemeinsamkeiten
+
+allen gemeinsam ist dass dieselben Lötspitzen passen, 
+
+diese sind extrem billig: 
+
+[https://de.aliexpress.com/item/1005004404569421.html](https://de.aliexpress.com/item/1005004404569421.html)
