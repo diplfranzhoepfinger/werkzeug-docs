@@ -2,6 +2,22 @@
 
 Eine Hotplate solte in jeder Werkstatt vorhanden sein. 
 
+Anwendungen: 
+
+*   Löten (z.B. SMD Bestücken, Reparaturen)
+    *   ABER: das geht nur bei 1-seitig bestückten Platinen. !
+*   Kugellager oder andere Ringe vorwärmen ( [https://www.ludwigmeister.de/de/blog/entry/Waelzlager_thermische_Montage](https://www.ludwigmeister.de/de/blog/entry/Waelzlager_thermische_Montage) - https://www.youtube.com/watch?v=JsVh7m2qA-8 )
+*   Entfernen von LCD Bildschirmen z.B. bei der Reparatur eines Telefons
+*   Erwärmen 
+    *   von Flüssigkeiten, z.B. auch das Warmhalten einer Suppe, Kaffe oder ähnlichem... 
+    *   Erhitzen von Speisen, z.B. die coolen Gläser von Würth: [https://www.wuerth.de/web/de/bpm/bpm_lunch2go/lunch2go.php](https://www.wuerth.de/web/de/bpm/bpm_lunch2go/lunch2go.php) ( das ist übrigens die Julia Schäfer: [https://www.tiktok.com/@tschulique)](https://www.tiktok.com/@tschulique))
+
+Vorteile: 
+
+*   2 Displays: Soll und Ist Temperatur Anzeige! 
+*   geregelte Temperatur, viel genauer als eine Ofenplatte
+*   viel gleichmäßiger als ein Heißluftföhn oder eine Flamme. 
+
 #### Bezugsquellen Hotplate:
 
 ##### ET-10:
@@ -13,6 +29,12 @@ Die ET-10 und die ET-20 benutzt [@franz-ms-muc](https://github.com/franz-ms-muc)
 ##### ET-20:
 
 [https://de.aliexpress.com/item/1005001582512314.html](https://de.aliexpress.com/item/1005001582512314.html) ET-20: 70€
+
+#### andere hotplate:
+
+[https://de.aliexpress.com/item/1005003126092677.html](https://de.aliexpress.com/item/1005003126092677.html) hat auch 100\*100 Tisch wie die ET-10, scheint aber in der Elektrischen Sicherheit besser zu sein !
+
+auch der Verbrühschutz seitlich ist ein Vorteil.
 
 #### Fotos ET-10:
 
