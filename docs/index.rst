@@ -1,5 +1,7 @@
-werkzeug-docs index
-========================================
+.. include:: ../README.rst
+
+Welcome to werkzeug documentation!
+========================================================
 
 .. note::
    Fragen/Anregungen: 
