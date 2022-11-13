@@ -6,4 +6,4 @@ weller
 .. toctree::
 
    Weller-WX-Serie
-   Platino
+   Platino-Loetkolben
