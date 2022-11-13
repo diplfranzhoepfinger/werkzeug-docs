@@ -14,6 +14,12 @@ mit 60W wird sie über PD versorgt, und ist damit das Gerät von miniware das am
 
 die Lötkolben können allenfalls 30W respektive 45W. 
 
+Sie ist gut geeignet um einzelne Chips auszulöten. 
+
+auch kleine Platinen bis ca. 35x35mm kann man damit gut bestücken. 
+
+wird es größer ist man aber damit nicht mehr gut bedient! mini eben !
+
 ![](https://user-images.githubusercontent.com/69573151/201537155-e17179b9-147f-45a4-a696-2cd5dec50f22.jpg)
 
 ![](https://user-images.githubusercontent.com/69573151/201537194-9acc2a05-f690-4413-80cb-87713ee7c8aa.jpg)
