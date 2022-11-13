@@ -8,7 +8,8 @@ sicherlich kann man damit auch löten, aber die Nachteile sind:
 
 *   hoher Verschleiß der Lötspitzen
 *   langsames Aufheizen
-*   Viel Platzbedarf auf dem Schreibtisch
+*   Viel Platzbedarf auf dem Schreibtisch (außer bei JCD)
+*   relativ starres Kabel
 *   langsame Reaktionszeit bei Berührung mit der Lötstelle
 *   langsame Temperaturregelung
 
@@ -16,11 +17,20 @@ sicherlich kann man damit auch löten, aber die Nachteile sind:
 
 *   ATTEN Lötkolben/Lötstation ST-100 / 100 W
 *   YIHUA 926LED-III Digitale Elektrische Lötkolben
+*   JCD 908S 
 
 #### Gemeinsamkeiten
 
 allen gemeinsam ist dass dieselben Lötspitzen passen, 
 
-diese sind extrem billig: 
+diese sind extrem billig:
 
 [https://de.aliexpress.com/item/1005004404569421.html](https://de.aliexpress.com/item/1005004404569421.html)
+
+JCD 908S: 
+
+[https://de.banggood.com/908S-80W-LCD-Electric-Soldering-Iron-Adjustable-Temperature-Solder-Iron-with-5Pcs-Solder-Tips-and-Stand-p-1612612.html?cur_warehouse=ES&ID=47184](https://de.banggood.com/908S-80W-LCD-Electric-Soldering-Iron-Adjustable-Temperature-Solder-Iron-with-5Pcs-Solder-Tips-and-Stand-p-1612612.html?cur_warehouse=ES&ID=47184)
+
+13€ für ein Werkzeugset mit Lötkolben:
+
+https://de.aliexpress.com/item/1005004418391691.html
