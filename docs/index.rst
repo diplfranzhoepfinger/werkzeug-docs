@@ -24,3 +24,4 @@ Contents
    elektronik/elektronik
    elektrik/elektrik
    mechanik/mechanik
+   genindex
