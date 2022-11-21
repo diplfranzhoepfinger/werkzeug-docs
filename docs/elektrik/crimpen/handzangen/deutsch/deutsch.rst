@@ -1,9 +1,8 @@
 
-handzangen
+deutsch
 ========================================
 
 
 .. toctree::
 
-   amp/amp
-   deutsch/deutsch
+   DeutschCrimpzangensatz
