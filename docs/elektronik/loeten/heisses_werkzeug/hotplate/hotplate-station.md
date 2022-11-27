@@ -6,7 +6,7 @@ Anwendungen:
 
 *   Löten (z.B. SMD Bestücken, Reparaturen)
     *   ABER: das geht nur bei 1-seitig bestückten Platinen. !
-*   Kugellager oder andere Ringe vorwärmen ( [https://www.ludwigmeister.de/de/blog/entry/Waelzlager_thermische_Montage](https://www.ludwigmeister.de/de/blog/entry/Waelzlager_thermische_Montage) - https://www.youtube.com/watch?v=JsVh7m2qA-8 )
+*   Kugellager oder andere Ringe vorwärmen ( [https://www.ludwigmeister.de/de/blog/entry/Waelzlager_thermische_Montage](https://www.ludwigmeister.de/de/blog/entry/Waelzlager_thermische_Montage) - [https://www.youtube.com/watch?v=JsVh7m2qA-8](https://www.youtube.com/watch?v=JsVh7m2qA-8) )
 *   Entfernen von LCD Bildschirmen z.B. bei der Reparatur eines Telefons
 *   Erwärmen 
     *   von Flüssigkeiten, z.B. auch das Warmhalten einer Suppe, Kaffe oder ähnlichem... 
