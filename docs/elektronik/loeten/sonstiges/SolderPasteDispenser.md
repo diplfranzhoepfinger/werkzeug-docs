@@ -2,6 +2,8 @@
 
 [https://www.ebay.de/itm/165637640664](https://www.ebay.de/itm/165637640664)
 
+https://de.aliexpress.com/item/32554182628.html
+
 er braucht einen Anschluss von 230V und Druckluft dazu. 
 
 die "Vakuum" Funktion kann man vergessen, da das Gerät dann dauernd Druckluft zieht. 
