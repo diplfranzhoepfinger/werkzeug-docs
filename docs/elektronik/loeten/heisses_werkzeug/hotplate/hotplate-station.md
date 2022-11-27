@@ -2,7 +2,7 @@
 
 Eine Hotplate solte in jeder Werkstatt vorhanden sein. 
 
-Anwendungen: 
+Anwendungen:
 
 *   Löten (z.B. SMD Bestücken, Reparaturen)
     *   ABER: das geht nur bei 1-seitig bestückten Platinen. !
@@ -12,11 +12,11 @@ Anwendungen:
     *   von Flüssigkeiten, z.B. auch das Warmhalten einer Suppe, Kaffe oder ähnlichem... 
     *   Erhitzen von Speisen, z.B. die coolen Gläser von Würth: [https://www.wuerth.de/web/de/bpm/bpm_lunch2go/lunch2go.php](https://www.wuerth.de/web/de/bpm/bpm_lunch2go/lunch2go.php) ( das ist übrigens die Julia Schäfer: [https://www.tiktok.com/@tschulique)](https://www.tiktok.com/@tschulique))
 
-Vorteile: 
+Vorteile:
 
 *   2 Displays: Soll und Ist Temperatur Anzeige! 
 *   geregelte Temperatur, viel genauer als eine Ofenplatte
-*   viel gleichmäßiger als ein Heißluftföhn oder eine Flamme. 
+*   viel gleichmäßiger als ein Heißluftföhn oder eine Flamme.
 
 #### Bezugsquellen Hotplate:
 
