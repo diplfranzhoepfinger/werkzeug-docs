@@ -6,13 +6,17 @@ er braucht einen Anschluss von 230V und Druckluft dazu. 
 
 die "Vakuum" Funktion kann man vergessen, da das Gerät dann dauernd Druckluft zieht. 
 
-bei mir hat der Steckanschluss nicht gepasst, hab mir dann so beholfen: 
+bei mir hat der Steckanschluss nicht gepasst, hab mir dann so beholfen:
 
 [https://www.amazon.de/gp/product/B07T6ZYJ8D](https://www.amazon.de/gp/product/B07T6ZYJ8D)
 
 plus 
 
 [https://www.amazon.de/gp/product/B0108HHGPG](https://www.amazon.de/gp/product/B0108HHGPG)
+
+![](https://user-images.githubusercontent.com/69573151/204136064-71392951-fe6c-4b94-8734-a278e9f005db.jpg)
+
+![](https://user-images.githubusercontent.com/69573151/204136081-808a8119-c3af-4d6a-9eb3-c037027709f5.jpg)
 
 also Zubehör braucht man solche Spritzenschläuche: [https://www.ebay.de/itm/373257465928](https://www.ebay.de/itm/373257465928)
 
