@@ -1,4 +1,4 @@
-### Kompressor
+# Kompressor
 
 Einsatz eines Kompressors:
 

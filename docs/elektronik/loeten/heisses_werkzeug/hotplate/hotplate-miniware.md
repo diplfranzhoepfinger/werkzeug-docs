@@ -1,4 +1,4 @@
-### hotplate-miniware
+# hotplate-miniware
 
 Auch miniware hat eine Hotplate:
 
