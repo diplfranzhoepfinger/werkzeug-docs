@@ -1,6 +1,6 @@
-### PINECIL-BB2
+# PINECIL-BB2
 
-#### Links:
+## Links:
 
 [https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/](https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/)
 
