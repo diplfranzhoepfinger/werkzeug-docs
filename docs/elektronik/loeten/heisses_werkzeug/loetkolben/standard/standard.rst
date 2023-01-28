@@ -1,8 +1,0 @@
-
-standard
-========================================
-
-
-.. toctree::
-
-   standard-loetkolben

@@ -1,8 +1,0 @@
-
-deutsch
-========================================
-
-
-.. toctree::
-
-   DeutschCrimpzangensatz
