@@ -8,6 +8,6 @@
 
 [https://vk.me/join/AJQ1d0yrQhneCCOVKp1ooJeh](https://vk.me/join/AJQ1d0yrQhneCCOVKp1ooJeh)
 
-```
+```{toctree}
 HS-01
 ```
