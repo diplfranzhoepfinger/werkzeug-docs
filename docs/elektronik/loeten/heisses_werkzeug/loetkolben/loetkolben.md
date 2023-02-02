@@ -8,4 +8,5 @@ weller/weller
 jbc/jbc
 miniware/miniware
 pinecil/pinecil
+fnirsi/fnirsi
 ```
