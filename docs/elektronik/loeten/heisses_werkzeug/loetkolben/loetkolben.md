@@ -9,4 +9,5 @@ jbc/jbc
 miniware/miniware
 pinecil/pinecil
 fnirsi/fnirsi
+sunshine/sunshine
 ```
