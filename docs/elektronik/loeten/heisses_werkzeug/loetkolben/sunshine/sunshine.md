@@ -1,5 +1,5 @@
 # SUNSHINE
 
 ```{toctree}
-SUNSHINE S210
+SUNSHINE-S210
 ```
