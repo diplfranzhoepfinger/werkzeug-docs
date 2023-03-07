@@ -31,7 +31,7 @@ This project is under active development.
 
 ```{toctree}
 :caption: 'Contents:'
-:maxdepth: 7
+:maxdepth: 9
 :numbered: true
 
 Home <self>
