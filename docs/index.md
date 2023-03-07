@@ -14,7 +14,7 @@ myst:
 ```{include} ../README.md
 ```
 
-# Welcome to werkzeug documentation!
+**Welcome to werkzeug documentation!**
 
 :::{note}
 Fragen/Anregungen:
@@ -27,7 +27,7 @@ hier lang:
 This project is under active development.
 :::
 
-## Contents
+**Contents**
 
 ```{toctree}
 :caption: 'Contents:'
