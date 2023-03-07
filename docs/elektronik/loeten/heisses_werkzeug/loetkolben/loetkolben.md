@@ -16,7 +16,7 @@ Willkommen auf der Seite über Lötkolben! Löten ist eine wichtige Technik in d
 | miniware  | TS-101     | 90W PD 65W DC | miniware 2.0 |            |                                                  |
 | miniware  | TS-101     | nicht möglich | Ralim/IronOS |            |                                                  |
 | PINE64    | Pinecil V1 | 65W DC 65W PD | Ralim/IronOS |            |                                                  |
-| PINE64    | Pinecil V2 | 65W DC 65W PD | Ralim/IronOS |            | (pinecil/PINECIL-BB2.md)[pinecil/PINECIL-BB2.md] |
+| PINE64    | Pinecil V2 | 65W DC 65W PD | Ralim/IronOS |            | [pinecil/PINECIL-BB2.md](pinecil/PINECIL-BB2.md) |
 | fnirsi    |            | 65W PD        |              |            |                                                  |
 | sunshine  | S210       | 110W          |              |            |                                                  |
 | sunshine  | S245       | 110W          |              |            |                                                  |
