@@ -1,5 +1,6 @@
 ---
 myst:
+  enable_extensions: ["colon_fence"]
   html_meta:
     "google-site-verification": "TyuFoyllrkvesmnVr-a6dR3czc5lWyl5tkGUnzqCehY"
     "description lang=en": "metadata description"
@@ -29,6 +30,8 @@ This project is under active development.
 ## Contents
 
 ```{toctree}
+:caption: 'Contents:'
+:maxdepth: 7
 :numbered: true
 
 Home <self>
@@ -38,3 +41,8 @@ elektrik/elektrik
 mechanik/mechanik
 genindex
 ```
+
+# Indices and tables
+
+- {ref}`genindex`
+- {ref}`search`
