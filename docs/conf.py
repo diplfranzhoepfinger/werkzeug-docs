@@ -33,7 +33,7 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store", "CHANGELOG.rst"]
 myst_enable_extensions = [
     "colon_fence",
 ]
-myst_heading_anchors = 8
+myst_heading_anchors = 7
 
 
 # -- Options for HTML output -------------------------------------------------
