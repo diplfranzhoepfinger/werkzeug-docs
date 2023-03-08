@@ -40,6 +40,7 @@ elektronik/elektronik
 elektrik/elektrik
 mechanik/mechanik
 genindex
+search
 ```
 
 # Indices and tables
