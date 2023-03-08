@@ -1,5 +1,8 @@
 # miniware
 
+```{index} single: miniware
+```
+
 ```{toctree}
 TS-80
 TS-100
