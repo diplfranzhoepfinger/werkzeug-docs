@@ -47,7 +47,7 @@ rein vom anschauen her scheint es sich hier um einen Kühlschrankkompressor zu h
 
 \-Metabo hat ein sehr ähnliches Gerät im Angebot: [https://www.metabo.com/de/de/maschinen/druckluft/kompressoren/mobile-werkstatt-kompressoren/basic-160-6-w-of-601501000-kompressor.html](https://www.metabo.com/de/de/maschinen/druckluft/kompressoren/mobile-werkstatt-kompressoren/basic-160-6-w-of-601501000-kompressor.html)
 
-viele weitere ähnliche lassen sich finden: https://www.amazon.de/Stanley-B2BE104STN703-Silent-Compressor-Giallo/dp/B07SHGZF2V?th=1
+viele weitere ähnliche lassen sich finden: [https://www.amazon.de/Stanley-B2BE104STN703-Silent-Compressor-Giallo/dp/B07SHGZF2V?th=1](https://www.amazon.de/Stanley-B2BE104STN703-Silent-Compressor-Giallo/dp/B07SHGZF2V?th=1)
 
 ![](https://user-images.githubusercontent.com/69573151/204131003-38b0380a-4325-45fc-ba7e-4b6697d4f0e6.jpg)
 
